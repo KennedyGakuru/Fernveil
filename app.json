@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "fernveil",
+    "scheme": "fernveil",
     "slug": "fernveil",
     "version": "1.0.0",
 
